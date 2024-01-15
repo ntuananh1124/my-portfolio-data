@@ -1,9 +1,68 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+    "project": [
+        {
+            "id": "1",
+            "name": "LANDING PAGE CÔNG NGHỆ 1",
+            "thumbnail": "",
+            "skills": [],
+            "link": "https://mini-project-1-nta.vercel.app/",
+            "sourceCode": "https://github.com/ntuananh1124/Mini-Project-1"
+        },
+        {
+            "id": "2",
+            "name":"LANDING PAGE CÔNG NGHỆ 2",
+            "thumbnail": "",
+            "skills": [],
+            "link": "https://mini-project-2-nta.vercel.app/",
+            "sourceCode": "https://github.com/ntuananh1124/Mini-Project-2"
+        },
+        {
+            "id": "3",
+            "name": "TEMPLATE WEB BÁN ĐỒ THỂ THAO",
+            "thumbnail": "",
+            "skills": [],
+            "link": "https://90sale.vercel.app",
+            "sourceCode": ""
+        },
+        {
+            "id": "4",
+            "name": "TRANG QUẢN LÍ, CHỈNH SỬA, TẠO, XÓA SẢN PHẨM",
+            "thumbnail": "",
+            "skills": [],
+            "link": "",
+            "sourceCode": "https://github.com/ntuananh1124/product-management-bai-33"
+        },
+        {
+            "id": "5",
+            "name": "TRANG LÀM BÀI TRẮC NGHIỆM",
+            "thumbnail": "",
+            "skills": [],
+            "link": "",
+            "sourceCode": "https://github.com/ntuananh1124/antd-hotel-services"
+        },
+        {
+            "id": "6",
+            "name": "TRANG QUẢN LÍ VIỆC LÀM",
+            "thumbnail": "",
+            "skills": [],
+            "link": "",
+            "sourceCode": "https://github.com/ntuananh1124/itJobsCV.git"
+        },
+        {
+            "id": "7",
+            "name": "GAME TICTACTOE",
+            "thumbnail": "",
+            "skills": [],
+            "link": " https://tic-tac-toe-gamma-ecru.vercel.app/",
+            "sourceCode": ""
+        },
+        {
+            "id": "8",
+            "name": "PREMIER LEAGUE MEMORY GAME",
+            "thumbnail": "",
+            "skills": [],
+            "link": "https://epl-magic-memory-game.vercel.app/",
+            "sourceCode": "https://github.com/ntuananh1124/antd-hotel-services"
+        }
+    ]
 }
